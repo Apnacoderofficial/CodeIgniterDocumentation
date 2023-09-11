@@ -85,6 +85,6 @@ Apnacoder's CodeIgniter Documentation: Your go-to resource for mastering CodeIgn
 
 
 
-Mostly Thanks to # CodeIgniter community 
+Mostly Thanks to #CodeIgniter community 
 
 
