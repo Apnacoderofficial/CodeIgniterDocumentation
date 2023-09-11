@@ -82,3 +82,9 @@ Apnacoder's CodeIgniter Documentation: Your go-to resource for mastering CodeIgn
 
 21. **Contact Information:**
     - Provide contact information for inquiries or support related to this documentation.
+
+
+
+Mostly Thanks to # CodeIgniter community 
+
+
